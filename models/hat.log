@@ -1,0 +1,79 @@
+Exporter version: 6.4.5, Blender version: 2.90.1
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  /Users/tijlclottemans/Documents/digital-making/project-fountain/public/models/
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  Cylinder
+		WARNING: No materials have been assigned: 
+		num positions      :  642
+		num normals        :  642
+		num tangents       :  0
+		num uvs            :  1284
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  256
+	processing begun of mesh:  Cube
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Circle
+		WARNING: No materials have been assigned: 
+		num positions      :  0
+		num normals        :  0
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  0
+	WARNING: mesh, Circle, has 0 vertices; ignored
+	processing begun of mesh:  Cylinder.001
+		WARNING: No materials have been assigned: 
+		num positions      :  411
+		num normals        :  411
+		num tangents       :  0
+		num uvs            :  822
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  158
+	processing begun of mesh:  Cylinder.002
+		WARNING: No materials have been assigned: 
+		num positions      :  309
+		num normals        :  309
+		num tangents       :  0
+		num uvs            :  618
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  124
+	processing begun of mesh:  Cylinder.003
+		WARNING: No materials have been assigned: 
+		num positions      :  479
+		num normals        :  479
+		num tangents       :  0
+		num uvs            :  958
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  188
+	processing begun of light (POINT):  Light
+========= Writing of JSON file started =========
+	writing mesh:  Cylinder
+	writing mesh:  Cube
+	writing mesh:  Cylinder.001
+	writing mesh:  Cylinder.002
+	writing mesh:  Cylinder.003
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.0746 secs
