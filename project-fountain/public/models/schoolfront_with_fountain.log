@@ -1,0 +1,132 @@
+Exporter version: 6.4.5, Blender version: 2.90.1
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  /Users/tijlclottemans/Documents/digital-making/project-fountain/public/models/
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of camera (UniversalCamera):  Camera.001
+	processing begun of mesh:  Cube.009
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.010
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.011
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.012
+		WARNING: No materials have been assigned: 
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.013
+		processing begun of material:  Material.005
+		num positions      :  998
+		num normals        :  998
+		num tangents       :  0
+		num uvs            :  1996
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  464
+	processing begun of mesh:  Cube.014
+		processing begun of material:  Material.006
+		num positions      :  998
+		num normals        :  998
+		num tangents       :  0
+		num uvs            :  1996
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  464
+	processing begun of mesh:  Cube.015
+		processing begun of material:  Material.007
+		num positions      :  998
+		num normals        :  998
+		num tangents       :  0
+		num uvs            :  1996
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  464
+	processing begun of mesh:  Cube.016
+		processing begun of material:  Material.008
+		num positions      :  998
+		num normals        :  998
+		num tangents       :  0
+		num uvs            :  1996
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  464
+	processing begun of mesh:  Cube.017
+		processing begun of material:  Material.009
+		num positions      :  998
+		num normals        :  998
+		num tangents       :  0
+		num uvs            :  1996
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  464
+	processing begun of mesh:  Plane.001
+		WARNING: No materials have been assigned: 
+		num positions      :  214
+		num normals        :  214
+		num tangents       :  0
+		num uvs            :  428
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  97
+	processing begun of mesh:  Plane.002
+		WARNING: No materials have been assigned: 
+		num positions      :  3602
+		num normals        :  3602
+		num tangents       :  0
+		num uvs            :  7204
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1683
+	processing begun of light (POINT):  Light
+	processing begun of light (HEMI FROM AREA):  Area.001
+	processing begun of light (POINT):  Light.001
+========= Writing of JSON file started =========
+	writing mesh:  Cube.009
+	writing mesh:  Cube.010
+	writing mesh:  Cube.011
+	writing mesh:  Cube.012
+	writing mesh:  Cube.013
+	writing mesh:  Cube.014
+	writing mesh:  Cube.015
+	writing mesh:  Cube.016
+	writing mesh:  Cube.017
+	writing mesh:  Plane.001
+	writing mesh:  Plane.002
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.3382 secs
