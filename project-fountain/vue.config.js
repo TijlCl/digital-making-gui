@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/digital-making/'
+    publicPath: '/digital-making-gui/'
   }
